@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/johari-react/static/css/main.3abf9e51.css",
-    "main.js": "/johari-react/static/js/main.9f5191a8.js",
-    "static/js/453.3faecf1f.chunk.js": "/johari-react/static/js/453.3faecf1f.chunk.js",
-    "index.html": "/johari-react/index.html",
-    "main.3abf9e51.css.map": "/johari-react/static/css/main.3abf9e51.css.map",
-    "main.9f5191a8.js.map": "/johari-react/static/js/main.9f5191a8.js.map",
-    "453.3faecf1f.chunk.js.map": "/johari-react/static/js/453.3faecf1f.chunk.js.map"
+    "main.css": "/johari-window/static/css/main.3abf9e51.css",
+    "main.js": "/johari-window/static/js/main.80e1578a.js",
+    "static/js/584.f25ddbda.chunk.js": "/johari-window/static/js/584.f25ddbda.chunk.js",
+    "index.html": "/johari-window/index.html",
+    "main.3abf9e51.css.map": "/johari-window/static/css/main.3abf9e51.css.map",
+    "main.80e1578a.js.map": "/johari-window/static/js/main.80e1578a.js.map",
+    "584.f25ddbda.chunk.js.map": "/johari-window/static/js/584.f25ddbda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3abf9e51.css",
-    "static/js/main.9f5191a8.js"
+    "static/js/main.80e1578a.js"
   ]
 }
