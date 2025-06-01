@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/johari-react/static/css/main.7b148aae.css",
-    "main.js": "/johari-react/static/js/main.00701488.js",
+    "main.css": "/johari-react/static/css/main.3abf9e51.css",
+    "main.js": "/johari-react/static/js/main.9f5191a8.js",
     "static/js/453.3faecf1f.chunk.js": "/johari-react/static/js/453.3faecf1f.chunk.js",
     "index.html": "/johari-react/index.html",
-    "main.7b148aae.css.map": "/johari-react/static/css/main.7b148aae.css.map",
-    "main.00701488.js.map": "/johari-react/static/js/main.00701488.js.map",
+    "main.3abf9e51.css.map": "/johari-react/static/css/main.3abf9e51.css.map",
+    "main.9f5191a8.js.map": "/johari-react/static/js/main.9f5191a8.js.map",
     "453.3faecf1f.chunk.js.map": "/johari-react/static/js/453.3faecf1f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b148aae.css",
-    "static/js/main.00701488.js"
+    "static/css/main.3abf9e51.css",
+    "static/js/main.9f5191a8.js"
   ]
 }
