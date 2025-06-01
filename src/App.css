@@ -1,38 +1,110 @@
-.App {
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f6f9fc;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.08);
+}
+
+h1, h2, h3 {
+  color: #333;
+}
+
+.instruction {
+  font-size: 1rem;
+  margin-bottom: 20px;
+  color: #444;
+}
+
+.question-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.question-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.question-number {
+  font-weight: bold;
+  width: 30px;
+}
+
+.question-text {
+  flex: 1;
+}
+
+.slider-container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+input[type="range"] {
+  width: 120px;
+}
+
+.score-display {
+  font-weight: bold;
+}
+
+.result-button {
+  margin: 20px 0;
+  padding: 10px 20px;
+  background-color: #4f9d69;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.results-box {
+  background: #f1f9f1;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.canvas {
+  margin-top: 20px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.interpret, .tip {
+  margin-top: 10px;
+  font-size: 1rem;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.quadrants ul {
+  padding-left: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.feedback-box {
+  margin-top: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+textarea {
+  width: 100%;
+  height: 80px;
+  padding: 10px;
+  font-family: inherit;
+  border: 1px solid #ccc;
+  border-radius: 5px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.thankyou {
+  margin-top: 10px;
+  color: #4f9142;
+  font-weight: bold;
 }
